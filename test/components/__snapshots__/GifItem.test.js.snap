@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en componente GifItem.jsx debe hacer match con el snapshop 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="kilua"
+      src="https://hunterxhunter.com/kilua.jpg"
+    />
+    <p>
+      kilua
+    </p>
+  </div>
+</div>
+`;

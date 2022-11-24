@@ -10,7 +10,7 @@ export const useFetchGifs = ( category ) => {
       const newImages = await getGifs(category);
       setimages(newImages);
       setLoading(false);
-    };
+    }; 
   
     useEffect(() => {
       getImages();
